@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigLuluu, or also go by Christina (Lu) Jin.
 - 👀 I’m interested in Data Mining, ML, AI and how data interact with human and human behaviors.
-- 👀 I’m also interested in human-centered design, both spatial (architecture and interiror) and experiential (product, user interface and experience).
+- 👀 I’m also interested in human-centered design, both spatial (architecture and interior) and experiential (product, user interface and experience).
 - 🌱 I’m currently learning Data Analytics in Applied Machine Intelligence and scuba diving :).
 - 🌱 I'm very outdoorsy, in my spare time you can find me snowboarding, wakeboarding, riding horses, dancing, cooking and traveling.
 - 💞️ I’m looking to collaborate on data-driven or user reseach projects.
